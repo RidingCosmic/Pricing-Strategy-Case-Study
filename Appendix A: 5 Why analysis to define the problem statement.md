@@ -1,1 +1,1 @@
-![Lyft Pricing Strategy](images/lyft_pricing_strategy.png)
+![Lyft Pricing Strategy](lyft_princing_strategy.png)
